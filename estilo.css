@@ -1,0 +1,18 @@
+header{
+    color: blue;
+}
+footer{
+    color:green;
+}
+form{
+    background-color: blue;
+}
+nav{
+    background-color: green;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+header{
+    background-color: purple;
+}
